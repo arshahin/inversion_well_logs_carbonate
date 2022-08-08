@@ -5,7 +5,11 @@ Very Fast Simulated Annealing (VFSA) is the global and stochastic optimization a
 
 To run the codes, please run "vfsa_density_sonic_resisit_synthetic_sw_equal_v07.m" code. It will call all the depencencies for the project.
 
-Please cite these papers if you use these codes.
+Please cite these papers if you use these codes:
+
+Shahin, A., Myers, M.T., Hathon, L.A., 2021, Multi-physics rock templates to seismically characterize complex carbonates, Exploration Geophysics, 1-16
+Shahin, A., Myers, M.T., Hathon, L.A., 2020, Global optimization to retrieve borehole-derived petrophysical properties of carbonates, Geophysics, 85: D75-D82. 
+
 
 https://www.researchgate.net/publication/356863718_Multi-physics_rock_templates_to_seismically_characterise_complex_carbonates
 Multi-physics rock templates to seismically characterise complex carbonates
