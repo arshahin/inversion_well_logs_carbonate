@@ -1,4 +1,5 @@
-# inversion_well_logs_carbonate
+# inversion_well_logs_carbonate (Large scale VFSA optimization-Muti-physics)
+
 This is a package for the inversion of well logs associated with carbonates with two pore systems.
 
 Very Fast Simulated Annealing (VFSA) is the global and stochastic optimization algorithm and here we customize it for well log inversion.  
